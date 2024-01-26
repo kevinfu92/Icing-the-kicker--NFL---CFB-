@@ -4,3 +4,11 @@ The following topics will be analyzed:
 - Is icing the kicker effective?
 - Do kickers kick now than before?
   
+## Offense
+- [Placeholder]
+
+## Defence
+- [Placeholder]
+
+## Special Team
+- [Placeholder]
